@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ithejls
+- 👋 Hi, I’m Jayant Sarkar
 - 👀 I’m interested in Game Devlopment
 - 🌱 I’m currently learning CPP 
 - 💞️ I’m looking to collaborate on Game Devlepment as I already know the ART
